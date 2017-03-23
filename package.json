@@ -1,0 +1,11 @@
+{
+  "name": "@erdiko/user-admin-css",
+  "version": "1.0.0",
+  "description": "Erdiko User Admin CSS theme.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saarmstrong/user-admin-css.git"
+  },
+  "author": "Andy Armstrong",
+  "homepage": "https://github.com/saarmstrong/user-admin-css#readme"
+}
